@@ -1,0 +1,162 @@
+{
+  "apim-request-id": "2fc30288-f723-4cb0-9445-32a1157c524b",
+  "content-length": "2158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 722,
+    "height": 493
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "roda",
+        "confidence": 0.9978424906730652
+      },
+      {
+        "name": "veículo terrestre",
+        "confidence": 0.9977468848228455
+      },
+      {
+        "name": "veículo",
+        "confidence": 0.9965237379074097
+      },
+      {
+        "name": "pneu",
+        "confidence": 0.9961874485015869
+      },
+      {
+        "name": "peça de automóvel",
+        "confidence": 0.9627687931060791
+      },
+      {
+        "name": "parachoque",
+        "confidence": 0.9532931447029114
+      },
+      {
+        "name": "carro urbano",
+        "confidence": 0.9370707273483276
+      },
+      {
+        "name": "hatch",
+        "confidence": 0.9366673827171326
+      },
+      {
+        "name": "texto",
+        "confidence": 0.9344930648803711
+      },
+      {
+        "name": "aro",
+        "confidence": 0.9283270239830017
+      },
+      {
+        "name": "roda de liga leve",
+        "confidence": 0.9272090792655945
+      },
+      {
+        "name": "veículo motorizado",
+        "confidence": 0.9082143306732178
+      },
+      {
+        "name": "porta do veículo",
+        "confidence": 0.907732367515564
+      },
+      {
+        "name": "carro de família",
+        "confidence": 0.9026086330413818
+      },
+      {
+        "name": "design automotivo",
+        "confidence": 0.8995671272277832
+      },
+      {
+        "name": "exterior automotivo",
+        "confidence": 0.8976856470108032
+      },
+      {
+        "name": "carro compacto",
+        "confidence": 0.8921900391578674
+      },
+      {
+        "name": "carro subcompacto",
+        "confidence": 0.8869524002075195
+      },
+      {
+        "name": "placa de identificação veicular",
+        "confidence": 0.8845793604850769
+      },
+      {
+        "name": "carro de tamanho médio",
+        "confidence": 0.8790204524993896
+      },
+      {
+        "name": "supermini",
+        "confidence": 0.8711858987808228
+      },
+      {
+        "name": "mini mpv",
+        "confidence": 0.8677419424057007
+      },
+      {
+        "name": "citroën",
+        "confidence": 0.8670163154602051
+      },
+      {
+        "name": "calota",
+        "confidence": 0.8602490425109863
+      },
+      {
+        "name": "manutenção de pneus",
+        "confidence": 0.8571144938468933
+      },
+      {
+        "name": "mpv compacto",
+        "confidence": 0.8500264883041382
+      },
+      {
+        "name": "fiat",
+        "confidence": 0.8483095765113831
+      },
+      {
+        "name": "revendedora de carros",
+        "confidence": 0.8452160954475403
+      },
+      {
+        "name": "hot hatch",
+        "confidence": 0.8447079658508301
+      },
+      {
+        "name": "ford",
+        "confidence": 0.8413195610046387
+      },
+      {
+        "name": "pneu automotivo",
+        "confidence": 0.8410239219665527
+      },
+      {
+        "name": "chão",
+        "confidence": 0.8144940137863159
+      },
+      {
+        "name": "estacionado",
+        "confidence": 0.751658022403717
+      },
+      {
+        "name": "sentando",
+        "confidence": 0.7392988801002502
+      },
+      {
+        "name": "piso",
+        "confidence": 0.6866732239723206
+      },
+      {
+        "name": "carro",
+        "confidence": 0.6312530636787415
+      },
+      {
+        "name": "interior",
+        "confidence": 0.6025750041007996
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "apim-request-id": "5b7ba30a-673b-46c5-b52a-9197d98a608d",
+  "content-length": "293",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 300,
+    "height": 168
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "texto",
+        "confidence": 0.9984172582626343
+      },
+      {
+        "name": "futebol",
+        "confidence": 0.971111536026001
+      },
+      {
+        "name": "pessoa",
+        "confidence": 0.9243178963661194
+      },
+      {
+        "name": "jogador",
+        "confidence": 0.7094079256057739
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "apim-request-id": "dfccc300-cb14-4c7d-b872-43237a48f33e",
+  "content-length": "676",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 580,
+    "height": 348
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "grama",
+        "confidence": 0.9943629503250122
+      },
+      {
+        "name": "animal",
+        "confidence": 0.9893017411231995
+      },
+      {
+        "name": "raça canina",
+        "confidence": 0.9660766124725342
+      },
+      {
+        "name": "ao ar livre",
+        "confidence": 0.9601560831069946
+      },
+      {
+        "name": "mamífero",
+        "confidence": 0.9541729688644409
+      },
+      {
+        "name": "dachshund",
+        "confidence": 0.8899662494659424
+      },
+      {
+        "name": "animal de estimação",
+        "confidence": 0.8542279005050659
+      },
+      {
+        "name": "cachorro",
+        "confidence": 0.8056615591049194
+      },
+      {
+        "name": "preto",
+        "confidence": 0.7565572261810303
+      },
+      {
+        "name": "doberman",
+        "confidence": 0.7422608137130737
+      },
+      {
+        "name": "campo",
+        "confidence": 0.6748098134994507
+      }
+    ]
+  }
+}
