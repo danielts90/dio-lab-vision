@@ -16,7 +16,7 @@ Sendo um recurso muito útil para fazer a identicação de raças, modelos de ca
 Outra possiblidade da IA é que você treine o seu prórpio modelo de dados para que reconheça imagens, 
 como por exemplo, na imagem abaixo, o portal identificou que eram jogadores de futebol mas não sou precisar qual o time nem quem eram os jogadores. 
 se houvesse um treinamento específico para isso, a IA teria identificado tais informações. 
-<img src="https://github.com/danielts90/dio-lab-vision/blob/main/Samples/Sample%201.jpg" alt="Futebol">
+<img src="https://github.com/danielts90/dio-lab-vision/blob/main/Samples/Sample%204.jpg" alt="Futebol">
 
 - O recurso de análise de textos, separa o texto da imagem em blocos e retona os caracteres encontrados nestes blocos.
   <img src="https://github.com/danielts90/dio-lab-vision/blob/main/Samples/Sample%203.jpg" alt="OCR">
